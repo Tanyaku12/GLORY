@@ -1,0 +1,34 @@
+[
+    {
+       "uid": "4370994117", 14262765765
+       "password": "DANGER-KJS5O3YNG-CORE"
+    }
+    {
+       "uid": "4370994116", 14262765747
+       "password": "DANGER-SNEOSUAMY-CORE"
+    },
+    {
+       "uid": "4370994115", 14262765760
+       "password": "DANGER-BKGPBXKBL-CORE"
+    },
+    {
+        "uid": "4224256496",
+        "password": "BY_XRSUPER-WBKQMILV9-XRRRR"
+    },
+    {
+        "uid": "4224256579",
+        "password": "BY_XRSUPER-GZEJNCIXA-XRRRR"
+    },
+    {
+        "uid": "4224256630",
+        "password": "BY_XRSUPER-X8JXCUGNT-XRRRR"
+    },
+    {
+        "uid": "4224256663",
+        "password": "BY_XRSUPER-USVTTGQMM-XRRRR"
+    },
+    {
+        "uid": "4224256734",
+        "password": "BY_XRSUPER-CESJRY4RF-XRRRR"
+    }
+]
